@@ -1,3 +1,5 @@
+- Connected World
+- جهان متصل
 - Digital transformation
 - تحول دیجیتال
 
