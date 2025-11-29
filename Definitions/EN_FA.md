@@ -31,6 +31,8 @@
 - کسب انرژی
 - Congestion
 - ازدحام
+- 5G
+- نسل پنجم شبکه مخابرات سیار
 - Shannon–Hartley theorem
 - قضیه شانون-هارتلی
 - Nash equilibrium
