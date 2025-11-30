@@ -3,6 +3,9 @@
 Mohammad Kadkhodaei Elyaderani
 -->
 
+### DL ENVs:
+- PaddlePaddle, https://www.paddlepaddle.org.cn/en, https://github.com/PaddlePaddle <!-- 1404-09-09 -->
+
 ### DRL ENVs:
 - https://farama.org/projects:
 - gymnasium, Custom Environment, https://gymnasium.farama.org/introduction/create_custom_env/
