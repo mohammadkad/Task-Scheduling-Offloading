@@ -39,5 +39,7 @@
 - ابرپارامتر یا فراپارامتر یا هایپرپارامتر
 - Shannon–Hartley theorem
 - قضیه شانون-هارتلی
+- Game theory
+- نظریهٔ بازی یا نگرهٔ بازی
 - Nash equilibrium
 - تعادل نش
