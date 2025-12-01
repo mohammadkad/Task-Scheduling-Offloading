@@ -10,6 +10,8 @@
 - مشارکتی
 - Smart factory
 - کارخانه هوشمند
+- Automated guided vehicle (AGV)
+- ارابه خودراهنما
 - Federated learning
 - یادگیری فدرال
 - Offloading <!-- 1404-08-21 -->
