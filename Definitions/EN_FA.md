@@ -35,6 +35,8 @@
 - ازدحام
 - 5G
 - نسل پنجم شبکه مخابرات سیار
+- Rayleigh fading
+- محوشدگی رایلی (؟)
 - Hyperparameter (machine learning)
 - ابرپارامتر یا فراپارامتر یا هایپرپارامتر
 - Shannon–Hartley theorem
