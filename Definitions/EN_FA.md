@@ -24,6 +24,8 @@
 - رایانش مرزی، رایانش لبه
 - Edge device
 - دستگاه لبه
+- Blockchain
+- بلاک‌چین، زنجیره بلوک
 - Convex optimization
 - بهینه سازی محدب
 - Resource allocation
