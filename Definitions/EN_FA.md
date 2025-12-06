@@ -37,6 +37,8 @@
 - ازدحام
 - 5G
 - نسل پنجم شبکه مخابرات سیار
+- 6G
+- نسل ششم شبکه مخابرات سیار
 - Rayleigh fading
 - محوشدگی رایلی (؟)
 - Hyperparameter (machine learning)
