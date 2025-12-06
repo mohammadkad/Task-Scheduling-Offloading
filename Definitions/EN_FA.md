@@ -49,5 +49,5 @@
 - نظریهٔ بازی یا نگرهٔ بازی
 - Nash equilibrium
 - تعادل نش
-- - Mohammad Kadkhodaei Elyaderani
+- Mohammad Kadkhodaei Elyaderani
 - محمد کدخدائی الیادرانی
