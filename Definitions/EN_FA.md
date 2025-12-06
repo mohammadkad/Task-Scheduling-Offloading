@@ -43,12 +43,11 @@
 - محوشدگی رایلی (؟)
 - Hyperparameter (machine learning)
 - ابرپارامتر یا فراپارامتر یا هایپرپارامتر
-
-- Mohammad Kadkhodaei Elyaderani
-- محمد کدخدائی الیادرانی
 - Shannon–Hartley theorem
 - قضیه شانون-هارتلی
 - Game theory
 - نظریهٔ بازی یا نگرهٔ بازی
 - Nash equilibrium
 - تعادل نش
+- - Mohammad Kadkhodaei Elyaderani
+- محمد کدخدائی الیادرانی
