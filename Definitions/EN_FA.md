@@ -49,6 +49,9 @@
 - نظریهٔ بازی یا نگرهٔ بازی
 - Nash equilibrium
 - تعادل نش
+- Data Lakehouse
+- ?
+
 - Mohammad Kadkhodaei Elyaderani
 - محمد کدخدائی الیادرانی
 - 
