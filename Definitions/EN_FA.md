@@ -2,6 +2,8 @@
 - جهان متصل
 - Digital transformation
 - تحول دیجیتال
+- Data governance
+- حاکمیت داده
 - Multi-access edge computing (MEC), formerly mobile edge computing
 - محاسبات لبه چنددسترسی
 - straggler effect
