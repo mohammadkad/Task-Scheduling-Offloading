@@ -53,6 +53,8 @@
 - تعادل نش
 - Data Lakehouse
 - ?
+- EdgeLake
+- ?
 
 - Mohammad Kadkhodaei Elyaderani
 - محمد کدخدائی الیادرانی
