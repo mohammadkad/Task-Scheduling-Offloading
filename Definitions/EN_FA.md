@@ -58,6 +58,11 @@
 - EdgeLake
 - ?
 
+- Deep Deterministic Policy Gradient (DDPG)
+- گرادیان سیاست قطعی عمیق
+- Twin Delayed Deep Deterministic Policy Gradient (TD3)
+- گرادیان سیاست قطعی عمیق با تأخیر دوقلو
+
 - Mohammad Kadkhodaei Elyaderani
 - محمد کدخدائی الیادرانی
 - 
