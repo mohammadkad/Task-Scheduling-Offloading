@@ -2,6 +2,8 @@
 - جهان متصل
 - Digital transformation
 - تحول دیجیتال
+- Digital twin
+- دوقلوی دیجیتال، دیجیتال توین، همزاد دیجیتالی
 - Data governance
 - حاکمیت داده
 - Multi-access edge computing (MEC), formerly mobile edge computing
