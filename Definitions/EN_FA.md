@@ -4,6 +4,8 @@
 - تحول دیجیتال
 - Digital twin
 - دوقلوی دیجیتال، دیجیتال توین، همزاد دیجیتالی
+- Industrial internet of things (IIoT)
+- اینترنت اشیا صنعتی
 - Data governance
 - حاکمیت داده
 - Multi-access edge computing (MEC), formerly mobile edge computing
